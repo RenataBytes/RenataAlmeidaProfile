@@ -1,4 +1,6 @@
 # RenataAlmeidaProfile
+# **Data Science Expert specializing in AWS, Python, SQL, Machine Learning and Artificial Intelligence**
+
 # 💫 About Me:
 🔧 I'm currently working on:<br>Developing machine learning models to optimize business processes and improve profitability across industries.<br>🤝 I'm looking to collaborate on:<br>Data science projects focusing on predictive analytics, recommendation systems, and marketing optimization.<br>🛠️ I'm looking for help with:<br>Advanced deployment of AI models using Docker and AWS for scalable solutions.<br>📚 I'm currently learning:<br>Enhancing my cloud skills by integrating cloud-based tools with AI and Machine Learning for scalable and efficient solutions.<br>🗨️ Ask me about:<br>How I reduced churn rates by 22% and boosted online sales by 12% through data-driven strategies.<br>Using SQL, Python, and machine learning for impactful business insights.<br>⚡ Fun fact:<br>I turned my love for problem-solving into data science projects that feel like solving real-world puzzles every day.
 
