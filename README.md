@@ -18,3 +18,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=RenataBytes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RenataBytes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RenataBytes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 📬 Contact Me
+
+📊 Passionate about data science and coding? Me too!
+
+🟣 Let's make something great together. Email me at renatadalmeidas@gmail.com
+
+🟣 Connect with me on [LinkedIn](https://www.linkedin.com/in/renata-d-almeida/) for more updates on my projects and professional endeavors.
